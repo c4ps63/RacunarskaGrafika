@@ -1,0 +1,26 @@
+# Visual Studio cache / build files
+.vs/
+*.obj
+*.ipch
+*.pdb
+*.idb
+*.tlog
+*.log
+*.cache
+*.db
+*.opendb
+
+# Build directories
+bin/
+obj/
+
+# Other temporary files
+*.ilk
+*.iobj
+*.ipdb
+*.tmp
+*.user
+*.suo
+
+# NuGet packages
+packages/
